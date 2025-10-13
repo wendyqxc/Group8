@@ -9,6 +9,6 @@ We have updated all the different branches with commits behind (or ahead). If yo
 At the terminal you can write:
 - git checkout main #to go into the main branch
 - git pull origin main  #get the latest from github 
-- git checkout [insert branch name] #switch to feature branche
-- git merge main    #merge main into the branch you want
-- click on sync changes in the source control panel on the left, to have it up to date 
+- git checkout [insert branch name] #switch to feature branche *[use this one every time you want to merge your code from your branch to the main branch]*
+- git merge main    #merge main into the branch you want *[use this one every time you want to merge your code from your branch to the main branch]*
+- click on sync changes in the source control panel on the left, to have it up to date *[use this one every time you want to merge your code from your branch to the main branch]*
